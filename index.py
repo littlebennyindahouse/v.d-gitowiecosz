@@ -2,7 +2,7 @@ print('hello omg')
 
 a = [12,24,13,54,13,54,76,9]
 
-sum_element = 0
+sum_element = 2
 
 for i in a:
     sum_element+=i
