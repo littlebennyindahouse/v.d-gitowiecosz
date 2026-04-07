@@ -9,3 +9,5 @@ for i in a:
 
 print(sum_element)
 print(sum_element/len(a))
+
+print('pipikivipls:)')
