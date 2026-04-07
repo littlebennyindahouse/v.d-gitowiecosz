@@ -1,6 +1,11 @@
 print('hello omg')
 
-for i in range(1,10000000000000):
-    print(i)
+a = [12,24,13,54,13,54,76,9]
 
-print('brr brr patapim')
+sum_element = 0
+
+for i in a:
+    sum_element+=i
+
+print(sum_element)
+print(sum_element/len(a))
