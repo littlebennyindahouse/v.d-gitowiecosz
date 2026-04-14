@@ -1,1 +1,1 @@
-print('craft the gold(;')
+print('craft the diamond(;')
